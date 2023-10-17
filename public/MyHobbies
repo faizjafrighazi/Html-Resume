@@ -1,0 +1,17 @@
+<!DOCTYE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>My Hobbies</title>
+    </head>
+    <body>
+    <h1>My Hobbies</h1>
+    <ul>
+        <li>Football</li>
+        <li>Coding</li>
+        <li>Web Developing</li>
+        <li>Reading books</li>
+        <li>Travelling</li>
+    </ul>
+</body>
+</html>
